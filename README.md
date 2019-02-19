@@ -1,4 +1,4 @@
-# c-project
+# c-projekt
 En finansiell kalkylator gjord i C-språket
 
 ## SKÄRMDUMP
