@@ -13,3 +13,9 @@ https://www.gtk.org/
 
 MinGW: http://www.mingw.org/
 
+## BLACK & SCHOLES
+
+https://en.wikipedia.org/wiki/Black%E2%80%93Scholes_model
+
+
+
