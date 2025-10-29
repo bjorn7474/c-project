@@ -20,17 +20,17 @@ Utvecklat och testat i Windows 10/11, MSYS2/MinGW64, GTK3 och Visual Studio (fö
 
 ## 🧰 Installation och byggning (Windows / MSYS2)
 
-Installera MSYS2 från https://www.msys2.org
+- Installera MSYS2 från https://www.msys2.org
 
-Starta ett MSYS2 MinGW64-terminalfönster
+- Starta ett MSYS2 MinGW64-terminalfönster
 
-Installera verktyg och GTK3: pacman -S --needed base-devel mingw-w64-x86_64-toolchain mingw-w64-x86_64-gtk3
+- Installera verktyg och GTK3: pacman -S --needed base-devel mingw-w64-x86_64-toolchain mingw-w64-x86_64-gtk3
 
-Klona projektet: git clone https://github.com/bjorn7474/c-project.git och gå in i katalogen: cd c-project
+- Klona projektet: git clone https://github.com/bjorn7474/c-project.git och gå in i katalogen: cd c-project
 
-Bygg: make
+- Bygg: make
 
-Kör: ./dist/optioncalc.exe
+- Kör: ./dist/optioncalc.exe
 
 ## 🧰 Installation och byggning (Linux)
 
