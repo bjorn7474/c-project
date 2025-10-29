@@ -42,7 +42,16 @@ Bygg: make
 
 Kör: ./optioncalc
 
-## Projektstruktur (översikt)
+## 📂 Projektstruktur
+
+optioncalc/
+├── gui.c / gui.h → GTK3-gränssnitt
+├── calc.c / calc.h → Black–Scholes- och grek-beräkningar
+├── resource.rc / .res → Resurser/ikoner (Windows)
+├── Makefile → Bygginstruktioner
+├── dist/ → Körbar fil och DLL:er efter bygg (Windows)
+├── .gitignore
+└── README.md
 
 gui.c, gui.h – GTK3-gränssnitt
 
