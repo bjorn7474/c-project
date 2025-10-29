@@ -34,13 +34,13 @@ Utvecklat och testat i Windows 10/11, MSYS2/MinGW64, GTK3 och Visual Studio (fö
 
 ## 🧰 Installation och byggning (Linux)
 
-Installera byggverktyg och GTK3: sudo apt install build-essential libgtk-3-dev
+- Installera byggverktyg och GTK3: sudo apt install build-essential libgtk-3-dev
 
-Klona projektet: git clone https://github.com/bjorn7474/c-project.git och cd c-project
+- Klona projektet: git clone https://github.com/bjorn7474/c-project.git och cd c-project
 
-Bygg: make
+- Bygg: make
 
-Kör: ./optioncalc
+- Kör: ./optioncalc
 
 ## 📂 Projektstruktur
 ```
