@@ -52,21 +52,6 @@ Kör: ./optioncalc
 - `.gitignore`  
 - `README.md`
 
-
-gui.c, gui.h – GTK3-gränssnitt
-
-calc.c, calc.h – Black–Scholes- och grek-beräkningar
-
-resource.rc, .res – resurser/ikoner (Windows)
-
-Makefile – bygginstruktioner
-
-dist/ – körbar fil och DLL:er efter bygg (Windows)
-
-.gitignore
-
-README.md
-
 ## 🧮 Användning
 
 1. **Starta programmet.**  
