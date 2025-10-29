@@ -58,13 +58,18 @@ dist/ – körbar fil och DLL:er efter bygg (Windows)
 
 README.md
 
-## Användning
+## 🧮 Användning
 
-Starta programmet
+1. **Starta programmet.**  
+2. **Ange följande parametrar:**
+   - **Underliggande pris**  
+   - **Lösenpris (strike)**  
+   - **Löptid** (i år)  
+   - **Riskfri ränta** – anges som decimal, t.ex. `0,03` för 3 %  
+   - **Volatilitet** – anges som decimal, t.ex. `0,30` för 30 %  
+   - Använd **komma (`,`)** som decimalavgränsare.  
+3. **Tryck på “Beräkna”** för att visa optionens teoretiska värde och greker.
 
-Ange underliggande pris, strike, tid till förfall (år), riskfri ränta och volatilitet (ange , som avgränsare)
-
-Tryck Beräkna för att se värde och greker
 
 ## Tips
 
