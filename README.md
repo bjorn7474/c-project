@@ -43,7 +43,7 @@ Bygg: make
 Kör: ./optioncalc
 
 ## 📂 Projektstruktur
-
+```
 optioncalc/
 ├── gui.c / gui.h        → GTK3-gränssnitt (UI-logik)
 ├── calc.c / calc.h      → Black–Scholes-beräkningar och greker
@@ -52,7 +52,7 @@ optioncalc/
 ├── dist/                → Färdig körbar fil och DLL:er (Windows)
 ├── .gitignore           → Filtrerar bort binärer och cache
 └── README.md            → Projektdokumentation
-
+```
 
 ## 🧮 Användning
 
