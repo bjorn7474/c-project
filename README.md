@@ -68,7 +68,7 @@ README.md
    - **Riskfri ränta** – anges som decimal, t.ex. `0,03` för 3 %  
    - **Volatilitet** – anges som decimal, t.ex. `0,30` för 30 %  
    - Använd **komma (`,`)** som decimalavgränsare.  
-3. **Tryck på “Beräkna”** för att visa optionens teoretiska värde och greker.
+3. **Tryck på “Calculate”** för att visa optionens teoretiska värde och greker.
 
 
 ## Tips
