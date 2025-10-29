@@ -80,3 +80,7 @@ Fritt att använda och modifiera för icke-kommersiellt bruk. För annan använd
 ## &#x2709;&#xFE0F; Kontakt
 
 bjornhallstrom74@gmail.com
+
+
+<img width="492" height="346" alt="screenshot1" src="https://github.com/user-attachments/assets/35d06115-5f8d-4325-b542-33bb5402b177" />
+
