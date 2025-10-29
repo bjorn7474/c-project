@@ -58,11 +58,11 @@ optioncalc/
 
 1. **Starta programmet.**  
 2. **Ange följande parametrar:**
-   - **Underliggande tillgång (asset) **  
+   - **Underliggande tillgång (asset)**  
    - **Lösenpris (strike)**  
-   - **Löptid** ((maturity)  
-   - **Riskfri ränta** – anges som decimal, t.ex. `0,03` för 3 %  
-   - **Volatilitet** – anges som decimal, t.ex. `0,30` för 30 %  
+   - **Löptid (maturity)**  
+   - **Riskfri ränta (interest)** – anges som decimal, t.ex. `0,03` för 3 %  
+   - **Volatilitet (volatility)** – anges som decimal, t.ex. `0,30` för 30 %  
    - Använd **komma (`,`)** som decimalavgränsare.  
 3. **Tryck på “Calculate”** för att visa optionens teoretiska värde och greker.
 
