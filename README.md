@@ -4,15 +4,15 @@ OptionCalc är en grafisk kalkylator skriven i C för beräkning av optioners te
 
 ## ✨ Funktioner
 
-Beräkning av call- och put-optioner med Black–Scholes-formeln
+- Beräkning av call- och put-optioner med Black–Scholes-formeln
 
-Visning av greker (delta, gamma, theta, vega, rho)
+- Visning av greker (delta, gamma, theta, vega, rho)
 
-GTK3-baserat, responsivt gränssnitt
+- GTK3-baserat, responsivt gränssnitt
 
-Makefile-baserad kompilering (MSYS2/MinGW64 och Linux)
+- Makefile-baserad kompilering (MSYS2/MinGW64 och Linux)
 
-Minimal extern beroendestruktur
+- Minimal extern beroendestruktur
 
 ##  💻 Utvecklingsmiljö
 
