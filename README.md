@@ -72,10 +72,10 @@ optioncalc/
 För distribution i Windows: zippa dist/ efter byggning (innehåller optioncalc.exe och nödvändiga GTK-DLL:er).
 I Linux räcker den kompilerade binären ./optioncalc om GTK3 redan finns.
 
-## Licens
+## ⚖️ Licens
 
 Fritt att använda och modifiera för icke-kommersiellt bruk. För annan användning, kontakta författaren.
 
-## Kontakt
-&#x2709;&#xFE0F;
+## &#x2709;&#xFE0F; Kontakt
+
 bjornhallstrom74@gmail.com
