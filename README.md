@@ -1,8 +1,8 @@
-## OptionCalc — GTK3-baserad optionskalkylator
+# OptionCalc — GTK3-baserad optionskalkylator
 
 OptionCalc är en grafisk kalkylator skriven i C för beräkning av optioners teoretiska värde och greker (delta, gamma, theta, vega, rho). Applikationen använder GTK3 för gränssnittet och kan byggas i både Windows (MSYS2/MinGW64) och Linux. Syftet är en enkel, portabel lösning för Black–Scholes-beräkningar med ett lättanvänt GUI.
 
-Funktioner
+## Funktioner
 
 Beräkning av call- och put-optioner med Black–Scholes-formeln
 
@@ -14,11 +14,11 @@ Makefile-baserad kompilering (MSYS2/MinGW64 och Linux)
 
 Minimal extern beroendestruktur
 
-Utvecklingsmiljö
+## Utvecklingsmiljö
 
 Utvecklat och testat i Windows 10/11, MSYS2/MinGW64, GTK3 och Visual Studio (för redigering). Byggning sker via Makefile.
 
-Installation och byggning (Windows / MSYS2)
+## Installation och byggning (Windows / MSYS2)
 
 Installera MSYS2 från https://www.msys2.org
 
@@ -32,7 +32,7 @@ Bygg: make
 
 Kör: ./dist/optioncalc.exe
 
-Installation och byggning (Linux)
+## Installation och byggning (Linux)
 
 Installera byggverktyg och GTK3: sudo apt install build-essential libgtk-3-dev
 
@@ -42,7 +42,7 @@ Bygg: make
 
 Kör: ./optioncalc
 
-Projektstruktur (översikt)
+## Projektstruktur (översikt)
 
 gui.c, gui.h – GTK3-gränssnitt
 
@@ -58,25 +58,23 @@ dist/ – körbar fil och DLL:er efter bygg (Windows)
 
 README.md
 
-Användning
+## Användning
 
 Starta programmet
 
-Ange underliggande pris, strike, tid till förfall (år), riskfri ränta och volatilitet
-
-Välj Call eller Put
+Ange underliggande pris, strike, tid till förfall (år), riskfri ränta och volatilitet (ange , som avgränsare)
 
 Tryck Beräkna för att se värde och greker
 
-Tips
+## Tips
 
 För distribution i Windows: zippa dist/ efter byggning (innehåller optioncalc.exe och nödvändiga GTK-DLL:er).
 I Linux räcker den kompilerade binären ./optioncalc om GTK3 redan finns.
 
-Licens
+## Licens
 
 Fritt att använda och modifiera för icke-kommersiellt bruk. För annan användning, kontakta författaren.
 
-Kontakt
+## Kontakt
 
 bjornhallstrom74@gmail.com
