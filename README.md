@@ -44,13 +44,15 @@ Kör: ./optioncalc
 
 ## 📂 Projektstruktur
 
-- `gui.c`, `gui.h` – GTK3-gränssnitt  
-- `calc.c`, `calc.h` – Black–Scholes- och grek-beräkningar  
-- `resource.rc`, `.res` – resurser/ikoner (Windows)  
-- `Makefile` – bygginstruktioner  
-- `dist/` – körbar fil och DLL:er efter bygg  
-- `.gitignore`  
-- `README.md`
+optioncalc/
+├── gui.c / gui.h        → GTK3-gränssnitt (UI-logik)
+├── calc.c / calc.h      → Black–Scholes-beräkningar och greker
+├── resource.rc / .res   → Ikoner och resurser för Windows
+├── Makefile             → Bygginstruktioner för gcc/make
+├── dist/                → Färdig körbar fil och DLL:er (Windows)
+├── .gitignore           → Filtrerar bort binärer och cache
+└── README.md            → Projektdokumentation
+
 
 ## 🧮 Användning
 
