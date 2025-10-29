@@ -58,9 +58,9 @@ optioncalc/
 
 1. **Starta programmet.**  
 2. **Ange följande parametrar:**
-   - **Underliggande pris**  
+   - **Underliggande tillgång (asset) **  
    - **Lösenpris (strike)**  
-   - **Löptid** (i år)  
+   - **Löptid** ((maturity)  
    - **Riskfri ränta** – anges som decimal, t.ex. `0,03` för 3 %  
    - **Volatilitet** – anges som decimal, t.ex. `0,30` för 30 %  
    - Använd **komma (`,`)** som decimalavgränsare.  
