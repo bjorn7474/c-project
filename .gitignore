@@ -1,0 +1,52 @@
+# =========================
+# GTK3 / MSYS2 / VS-projekt
+# =========================
+
+# Kompilerade binärer
+*.exe
+*.dll
+*.so
+*.a
+*.lib
+
+# Objektfiler och länkfiler
+*.o
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.res
+
+# Auto-genererade symbol- och loggfiler
+*.log
+*.stackdump
+
+# Visual Studio användar- och cachefiler
+*.user
+*.vcxproj.user
+*.suo
+*.ncb
+*.opendb
+*.VC.db
+*.VC.VC.opendb
+.vs/
+
+# Makefile-relaterade temporära filer
+*.d
+*.depend
+
+# Backup- och temporära filer
+*~
+*.bak
+*.tmp
+
+# Byggkataloger
+/build/
+/dist/
+/bin/
+/Debug/
+/Release/
+
+# GTK / Glade cache
+*.goutputstream*
+*.glade~
