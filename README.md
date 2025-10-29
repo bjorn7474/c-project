@@ -1,7 +1,6 @@
 # 🧮 OptionCalc — GTK3-baserad optionskalkylator
 
-**OptionCalc** är en grafisk kalkylator skriven i **C** som beräknar optioners teoretiska värde och greker  
-*(delta, gamma, theta, vega, rho)* med hjälp av **Black–Scholes-modellen**.  
+**OptionCalc** är en grafisk kalkylator skriven i **C** som beräknar optioners teoretiska värde och greker med hjälp av **Black–Scholes-modellen**.  
 
 Byggd med **GTK3**, fungerar både i **Windows (MSYS2/MinGW64)** och **Linux**.  
 Designad för att vara **enkel, portabel och snabb**, med ett rent och lättanvänt GUI.
