@@ -9,8 +9,6 @@ Designad för att vara **enkel, portabel och snabb**, med ett rent och lättanv�
 
 - Beräkning av call- och put-optioner med Black–Scholes-formeln
 
-- Visning av greker (delta, gamma, theta, vega, rho)
-
 - GTK3-baserat, responsivt gränssnitt
 
 - Makefile-baserad kompilering (MSYS2/MinGW64 och Linux)
