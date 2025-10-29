@@ -77,5 +77,5 @@ I Linux räcker den kompilerade binären ./optioncalc om GTK3 redan finns.
 Fritt att använda och modifiera för icke-kommersiellt bruk. För annan användning, kontakta författaren.
 
 ## Kontakt
-
+:email:
 bjornhallstrom74@gmail.com
