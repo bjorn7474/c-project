@@ -67,7 +67,7 @@ optioncalc/
 3. **Tryck på “Calculate”** för att visa optionens teoretiska värde och greker.
 
 
-## Tips
+## :bulb: Tips
 
 För distribution i Windows: zippa dist/ efter byggning (innehåller optioncalc.exe och nödvändiga GTK-DLL:er).
 I Linux räcker den kompilerade binären ./optioncalc om GTK3 redan finns.
